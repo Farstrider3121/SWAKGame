@@ -414,6 +414,7 @@ screen main_menu():
     tag menu
 
     add gui.main_menu_background
+    image "gui/main_menu_gradient.png"
 
     ## This empty frame darkens the main menu.
     frame:
