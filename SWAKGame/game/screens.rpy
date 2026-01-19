@@ -426,8 +426,6 @@ screen main_menu():
     if gui.show_name:
 
         vbox:
-            xalign 0.5
-            yalign 0.5
             style "main_menu_vbox"
 
             text "LOGO GOES HERE":
@@ -452,11 +450,8 @@ style main_menu_frame:
     yfill True
 
 style main_menu_vbox:
-    xalign 1.0
-    xoffset -30
-    xmaximum 1200
-    yalign 1.0
-    yoffset -30
+    xalign 0.5
+    yalign 0.5
 
 style main_menu_text:
     properties gui.text_properties("main_menu", accent=True)
