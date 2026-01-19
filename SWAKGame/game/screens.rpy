@@ -150,7 +150,7 @@ style namebox:
     padding gui.namebox_borders.padding
 
 style say_label:
-    properties gui.text_properties("name", accent=True)
+    properties gui.text_properties("name")
     bold True
     xalign gui.name_xalign
     yalign 0.5

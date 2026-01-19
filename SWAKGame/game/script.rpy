@@ -9,10 +9,12 @@ define lyria = Character("Lyria")
 # The game starts here.
 
 label start:
-    # Create background for the city
-    # Add music for the scene
+    stop music fadeout 2.0
+    # TODO: ADD MUSIC
+    # TODO: ADD CITY BACKGROUND
     "The year was 1848. Just a few years after the dawn of the Magitek Revolution."
-    "Long gone were the days of manual, pedestrian dungeoneering. With the ancient resources of the world nearly depleted, a great breakthrough was necessary, and a great breakthrough took place."
+    "Long gone were the days of manual, pedestrian dungeoneering."
+    "With the ancient resources of the world nearly depleted, a great breakthrough was necessary, and a great breakthrough took place."
     "With the discovery of extradimensional portals, any location could be turned into a dungeon site, producing a seemingly endless supply of relics, magical materials and valuable monsters."
     "Those manmade dungeon sites quickly turned into advances Dungeon Industries, where new machines would sort the valuables and crush the monsters originating from portals like well oiled machines."
     "Of course, no profitable process is ever simple and neither were portals."
