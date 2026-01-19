@@ -1,0 +1,467 @@
+[Background: Operation room.]
+
+[Variable: Purification]
+
+Jonah
+Are you ready, Lyria?
+
+Lyria
+Yes.
+
+Lyria
+But… Just… Are you absolutely certain about this, Jonah?
+
+Jonah
+With every fiber of my being! Lyria, this isn’t a promise: it’s a declaration. This is the best decision you could’ve made. You will see.
+
+Lyria
+Okay. If you say so.
+
+Lyria
+Jonah, I… I love you.
+
+Jonah
+I love you to, my beloved agathebloom. May Cynthia protect you on your journey.
+
+Lyria
+Always.
+
+Lyria
+In that case, I suppose I will see you soon, yes?
+
+Jonah
+Of course. Like always, this will just be a brief dream.
+
+Jonah
+Goodbye, Lyria.
+
+[Lyria vanishes.]
+
+Jonah
+(Very well. Time of operation begins: six o’ clock.)
+
+Jonah
+(Into the beyond.)
+
+[Operation takes place.]
+
+Jonah
+(Phew! That was draining… It was definitely one of the most challenging operations I’ve ever made.)
+
+Jonah
+(But it’ll be worth it. Oh, my darling Lyria… Soon, we’ll be together again. And for the rest of your time.)
+
+Lyria
+Mph…
+
+Jonah
+Lyria? (How is this possible? She couldn’t possibly be waking up this soon.)
+
+Lyria
+Ugh…
+
+Jonah
+Lyria, are you well? Do you have any discomfort?
+
+Lyria
+It… it stings. Like fire. What is this…?
+
+Jonah
+You say it stings?
+
+Lyria
+*Huff* *Puff* Jonah, I don’t feel well. I don’t feel well at all. It’s burning.
+
+Jonah
+What is burning, dear?
+
+Lyria
+Everything! My insides, my skin, my head…
+
+Jonah
+Don’t worry, I’ll get you a cooling agent immediately.
+
+Lyria
+It… Ugh! It burns so intensely! Please, make it stop!
+
+Jonah
+Here, does it feel better?
+
+Lyria
+No, no it doesn’t…
+
+Jonah
+Strange… I’ll get another one, then.
+
+Lyria
+What are these… thoughts?
+
+Jonah
+Thoughts?
+
+Lyria
+They’re telling me to… Consume. Gash. Destroy.
+
+Jonah
+What?! Impossible! I entirely purified your brain! You shouldn’t be showing signs of possession.
+
+Lyria
+Ugh… What are these thoughts!?! IT HURTS!
+
+Jonah
+Unless… Neither the body or the brain were corrupted.
+
+Jonah
+Was it… the soul, all along?
+
+Lyria
+WHAT DID YOU DO TO ME?!!!?!
+
+Jonah
+Calm, Lyria. This agent will put you to sleep immediately.
+
+[Sound of chain breaking.]
+
+Lyria
+Raaah!
+
+Jonah
+(She-she broke out of her bond! How is that possible?) 
+
+Jonah
+(What is this… thing?)
+
+Lyria
+MAKE IT STOP!!!!!!
+
+Jonah
+Stay back, Lyria! Don’t make me use my silver rune, you know I will!
+
+Lyria
+WHY DID YOU HAVE TO CONVINCE ME TO DO THIS?!!?
+
+Jonah
+Gah!
+
+Lyria
+You always do the same. You talk, talk and never listen! I was better off dead than this and I knew it!!!
+
+Jonah
+Lyria, please… calm down.
+
+Lyria
+DON’T TELL ME TO CALM DOWN! YOU MONSTER! Kept me hostage all those years, bringing me back and forth like a windup toy!
+
+Lyria
+Well, WHO’S THE TOY NOW?!!
+
+Jonah
+Aaaahhhhhhh!!!
+
+Lyria
+It burns… in my mind… Lordran’s brother, Zephyr… The end-bringer… I can’t shut it down.
+
+Lyria
+WHY DID YOU DO THIS?!?! IT’S ALL PAIN, PAIN, PAIN!!!!
+
+Jonah
+…
+
+[Time passes.]
+
+Lyria
+*Huff* *Puff*
+
+Lyria
+Where… Where am I? Jonah?
+
+Lyria
+Where are you? Did the operation succeed? Am I alive?
+
+Lyria
+*Gasp* Jonah!
+
+Lyria
+What happened, how did this-
+
+Lyria
+Wait. Did I do this?
+
+Lyria
+Oh no. Oh no, no, no, no!
+
+Lyria
+Jonah… *Sobs* I didn’t want this… I didn’t want this to happen!
+
+Lyria
+Why did I-? Why did you?
+
+[Sudden sound.]
+
+Lyria
+*Gasp* (I can’t let them find me like this! I have to run!)
+
+And so, with cursed breath and sluggish steps, Lyria fled the dreaded Company, once and for all. Or so she hoped.
+
+In a disoriented step, she ran to the slums of Zegobia until she found an abandoned den.
+
+She rested, uncertain of her immediate fate.
+
+A mismatched body and a terrible urge were the burdens she would bear for years and years. Running away from the company, hiding her condition, making sure not to harm an innocent again.
+
+Although it was bitter and full of peril, a secret part of her was shamefully glad.
+
+In a way, she was finally free. For better or worse for her former captor.
+
+Would things have worked differently if she had negated? She would never know.
+
+The only certain thing was another night and another bout of hunger. 
+
+Never ending hunger.
+
+Goodbye.
+
+
+[Variable: Transplant]
+
+Lyria
+Jonah. I have made my decision.
+
+Lyria
+I want a brain transplant. I would rather take a second chance at life than keep withering under the sterile shell of my current mind.
+
+[Choice:]
+[Accept decision]
+[Protest]
+
+[Accept decision]
+
+Jonah
+Very well. I accept your decision.
+
+Lyria
+…Are you sure? You don’t want to discuss it further?
+
+Jonah
+No. I understand. For the sake of your wellbeing, this is the most logical decision from you.
+
+Lyria
+I see… Thank you for your reassurance.
+
+Jonah
+…
+
+Jonah
+Before you go, Lyria, I have a few things to say.
+
+Jonah
+I realize wasn’t always the most permissive lover. I’ve been thinking back and I realized I may have taken matters that concerned you in my own hands when perhaps I shouldn’t have.
+
+Jonah
+Such as recommending you worked with me at the company, or my previous taking charge over your medical decisions.
+
+Jonah
+Maybe it is for the best that you have a new start. I don’t think continuing things as they were would’ve made either of us any favors.
+
+Lyria
+Jonah…
+
+Lyria
+If you wish to know my opinion, I think you’re a good man. You’ve covered my whole operation even though soon I will become a stranger to you.
+
+Lyria
+I am aware of the… unbalanced nature of our relationship. But until now I have always agreed with you because I love you and I wanted to make you happy.
+
+Lyria
+Perhaps I am biased.
+
+Lyria
+Still… I will miss you. Or, at the very least, my spirit will.
+
+Jonah
+I’ll miss you as well.
+
+[Fade to black.]
+
+Jonah
+After that, we kept talking about the good times one last time before I made my final preparations.
+
+[Fade back to scene.]
+
+Jonah
+Are you ready?
+
+Lyria
+Yes. One last thing, Jonah. When I wake up, I want you to hand me this.
+
+Jonah
+A letter? Did you write it yourself?
+
+Lyria
+Yes. I have become surprisingly adept at manipulating the physical realm in spirit form.
+
+Lyria
+It’s a letter to myself. Please, don’t read it.
+
+
+Jonah
+I won’t.
+
+Lyria
+Goodbye, Jonah.
+
+Jonah
+…
+
+Jonah
+Goodbye.
+
+[Lyria vanishes]
+
+[Frankenstein minigame 2]
+
+Jonah
+(The operation was a success! The body and the mind shows no signs of corruption.)
+
+Jonah
+…
+
+Jonah
+(Farewell, Lyria. Perhaps we’ll meet in another life.)
+
+[Fade to black and back to scene.]
+[??? is Lyria.]
+
+???
+Hello? Is this Parsley Hawthorne’s office?
+
+Hawthorne
+Ah, yes! Miss Silvermoon, I was expecting you.
+
+Hawthorne
+Excuse me, I should say, Miss Maple Laezel.
+
+Maple
+Yes, that is my name. I believe.
+
+Maple
+I must say, I’m still a bit disoriented since I awoke.
+
+Hawthorne
+Certainly. Allow me to shed some light into the situation.
+
+
+
+Hawthorne
+Your name is Maple Laezel. You used to be an alchemist assistant until three years ago, when your body expired after a failed experiment.
+
+Maple
+*Gulp*
+
+Hawthorne
+Since your family couldn’t afford a resurrection, your body and mind were donated to the Shell market, until the mind was purchased out of pocket by a former employee of our corporation, Mr. Jonah Daggerfell.
+
+Hawthorne
+He used your brain to replace that of another former employee, Miss Lyria Silvermoon. Miss Silvermoon’s body was in such a worn state after years of service to the corporation, the only solution the only solution was a brain transplant. Which was yours.
+
+Maple
+So… Am I still me?
+
+Hawthorne
+That is a complicated matter to answer. As far as you can sense and feel: yes, you are still you. But in truth your spirit is not the same as former “Maple Laezel”, but Lyria Silvermoon. As most of your body parts.
+
+Hawthorne
+Excuse me- some of your body parts.
+
+Maple
+I see. That’s why I woke up in a different body.
+
+Hawthorne
+Precisely! Now, it is my role to inform you as Personnel Overseer of this company that as of officiate immediately you no longer work for this company.
+
+Hawthorne
+Not like you have any memory of ever working here, so no harm no foul, isn’t that right?
+
+Maple
+I suppose so. I’ve been informed it was my host’s decision to resign, wasn’t it?
+
+Hawthorne
+Yes, but rest assured that it was simply a personal decision on her part. Nothing our company was responsibly liable for.
+
+Maple
+I see. In that case, thank you very much for your assistance, Mr. Hawthorne.
+
+Hawthorne
+And to you.
+
+Maple
+Ah! One more thing, before I leave. This Jonah Daggerfell gent… could you help me put in contact with him?
+
+[Fade to black, back to scene.]
+[Jonah now has an apothecary shop.]
+
+Jonah
+Thank you. Have a pleasant day.
+
+[Store bell rings.]
+
+???
+Jonah? Is it you?
+
+Jonah
+Lyria!?!
+
+Jonah
+Oh. Excuse me. Maple Laezel, I suppose.
+
+Maple
+You suppose correctly. You are the man who performed my operation, yes?
+
+Jonah
+Indeed I am.
+
+Maple
+Thank you so, so much! Words cannot describe how grateful I am for you bringing me back to the realm of the living.
+
+Jonah
+None necessary. I was simply fulfilling my job.
+
+Maple
+Still! Not only did you hold the scalpel, you also handled the costs for the operation, didn’t you?
+
+Jonah
+Well… Yes. But please, have no feelings of debt towards me on that regard.
+
+Jonah
+I did it as a token for… someone else. Your current host, as far as you would know.
+
+
+Maple
+I have been informed of the situation. Lyria told me all about it on her letter-
+
+[Sound effect: rustling paper]
+
+Jonah
+Oh Lordran. Please, I beg you, don’t show me that paper! I made a promise I wouldn’t read it.
+
+Maple
+You did? Oh well… In any case, she told me you were a very good person and if I ever needed help, I should contact you.
+
+Jonah
+Did she, now? *Snicker* Of course she did. She was wise beyond her years.
+
+Maple
+Indeed. In any case, if it’s not too forward, I was wondering if I could- uh- make your acquaintance some day? Perhaps over a spot of tea?
+
+Jonah
+Huh? Why?
+
+Maple
+Well… Lyria told me you were a good man. You could say I’m simply curious to know you. If that’s fair with you.
+
+Jonah
+…
+
+Jonah
+I believe it is, Miss Laezel.
+

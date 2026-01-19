@@ -1,0 +1,322 @@
+[Scene: Jonah Daggerfell’s Operation room. A female body covered in cloth lays on an operation table.]
+
+Jonah
+*Huff* *Puff* (Deep breaths, Jonah. You’ve done this several times before, it’s going to be well.)
+
+Jonah
+(Just… follow the protocol. Review the manual if you need it, it’s perfectly acceptable.)
+
+[A manual describes the instructions for a seance minigame.]
+
+TOME OF RESURRECTION
+
+Step 1: Soul Inspection
+
+As a necessary step for employee resurrection, necromancers must perform a psychological evaluation to make sure the spirit is stable and willing to return to the realm of the living.
+
+Select the appropriate runes based on the employee’s background and start asking: “Are there any spirits in the room?”
+
+(Etc.)
+
+Jonah
+Are there any spirits in the room?
+
+[All the runes turn face up.]
+
+Jonah
+Lyria Silvermoon, are you in my presence? Please, show yourself!
+
+[Lyria’s spirit fades in.]
+
+Lyria
+Jonah… Why are you summoning me? Aren’t you going to revive me?
+
+Jonah
+Lyria! Thank Lordran you’re well!
+
+Jonah
+I wanted to check the state of your spirit. Besides, it’s part of the procedure. You know this.
+
+Lyria
+Right… Yes.
+
+Jonah
+How are you feeling? Are you stable?
+
+Lyria
+Relatively. I feel anchored enough, but I sense I had a terrible death.
+
+Jonah
+Yes… I know. I read the report.
+
+Jonah
+*Deep sigh* Can you recount what happened before your expiration?
+
+
+
+Lyria
+It was bloody… The greatest Behemoth I’ve ever seen. I watched him rip apart every member of my unit, one by one. I was the last.
+
+Jonah
+I’m so sorry, my dear… But you’re strong. I’m glad to see your spirit remains firm after an experience like that.
+
+Lyria
+Yes… Certainly.
+
+Jonah
+What about you? How are you feeling at the moment?
+
+Lyria
+I feel… nothing.
+
+Jonah
+…Are you sure? Can you describe any thoughts? Any sensations?
+
+Lyria
+I feel… cold. Seeing my team fall in front of me brought me great pain, but after my death… I’m completely numb.
+
+Jonah
+Oh, Lyria… All is well. You will trudge along this path. I’m here with you.
+
+Lyria
+…
+
+Jonah
+Remember how you wanted to visit Novaria for our next holiday? Are you still looking forward to that?
+
+Lyria
+*Gasp* Yes…
+
+Jonah
+Good. Hang onto that feeling. You’re in good hands. I brought you back before and I’ll do it again. I swear on Lordran.
+
+Lyria
+Thank you.
+
+Lyria
+I love you, Jonah.
+
+
+Jonah
+I love you, Lyria.
+
+Jonah
+With that said, are you willing to return to the realm of the living?
+
+Lyria
+I consent.
+
+Jonah
+Good. Any last words before your reanimation?
+
+Lyria
+…How… What’s the state of my body?
+
+Jonah
+I haven’t looked yet. Based on the reports, it wasn’t in a pristine state.
+
+Lyria
+…
+
+Jonah
+But once again, don’t worry: you’re in good hands. I’ll revive you in the Sun or Rain, even if I have to rip you out of the hands of Myrra herself.
+
+Lyria
+*Giggle* Thank you.
+
+Lyria
+Good luck, Jonah.
+
+[Lyria vanishes.]
+
+Jonah
+(Note: spirit is anchored. Resurrection consent: approved.)
+
+Jonah
+(I’ll uncover the body.)
+
+[Jonah uncovers the body. Lyria’s body has been ripped apart limb by limb. The head, torso, arms and legs are separated.]
+
+[Lyria’s limbs have scars from previous operations. Some of the parts may have been already replaced by mismatching looking body parts from other races.]
+
+Jonah
+(*Gulp* Just as the report described. Focus, Jonah, your love’s life depends on it!)
+
+Step 2. Body reassembly
+
+Stitch together any dismembered body parts. Connect electric diodes to the head’s temples.
+Once finished, flip the power switch on to reanimate the body.
+
+Jonah
+(Here goes…)
+
+Jonah
+Rise, Lyria, rise!
+
+[Power turns on and electricity flows through Lyria’s body. She slowly opens her eyes.]
+
+Jonah
+Lyria! Are you alive? Please, speak!
+
+Lyria
+Jonah… I…
+
+Lyria
+…
+
+[Lyria’s body begins to convulse.]
+
+Lyria
+Blargh!
+
+Jonah
+Lyria? Are you well?! Say something!
+
+Lyria
+Shed your blood, meager mortal- Blood for Haxos! Blood for the Neatherlord!
+
+In case the body displays signs of possession, such as unusual speech, immediately turn the power off.
+
+[Player turns the switch off.]
+
+Jonah
+(This is strange… is her body possessed? Behemoths aren’t nether creatures, it’s impossible one of them could corrupt her body.)
+
+Jonah
+(This corruption must’ve been dormant for a while. I must replace the corrupt body parts until the entire body is pure!)
+
+In case of possession, one or more body parts must be corrupt. Replace whichever body parts you suspect may be the object of corruption and turn the power on again for a reanimation test.
+
+If the body remains possessed, use a process of elimination to determine which body parts are corrupt and which are pure.
+
+[After player successfully assembles the body:]
+
+Jonah
+Lyria? Are you yourself again?
+
+Lyria
+…
+
+Lyria
+Ah…
+
+Lyria
+AAAAAAAAHH!!!
+
+Jonah
+*Covers ears in pain* Lyria! Control yourself!
+
+Lyria
+Make it stop! MAKE IT STOP! The pain is unbearable! I shouldn’t have come back! PLEASE, MAKE IT STOP!!!
+
+[Player turns the power off again.]
+
+Jonah
+(How is this possible?! An incompatible reaction? Lyria has never suffered one before!)
+
+Jonah
+(I must perform another evaluation immediately!)
+
+Jonah
+Are there any spirits in this room?
+
+[Runes flip positively]
+
+Jonah
+Lyria Silvermoon, please, show yourself!
+
+[Lyria manifests.]
+
+Lyria
+What happened? That felt awful!
+Jonah
+Don’t worry, you just had an incompatible reaction. It happens when the body and the mind aren’t adequately in tune.
+
+Jonah
+I’m not sure why it happened… Maybe there was a latent curse undetected or some malfunction in the brain?
+
+Jonah
+Gah! I’m so stupid! How did I not see it in the horizon?!
+
+Lyria
+All is well, Jonah. Do not punish yourself for it.
+
+Jonah
+I’m afraid to announce your resurrection will have to wait. I must perform further diagnostics.
+
+Jonah
+Before I do, though, I must ask… Lyria, were you truly willing to come back to life?
+
+Lyria
+…
+
+Lyria
+I must confess… Through these recent years, I’ve had some reticence in my resurrections.
+
+Jonah
+What?! Why?
+
+Lyria
+Times are changing, Jonah… I’m not the same brave adventurer I once was. Now, I feel simply like a cog in the Dungeon Industry’s machinery. A meager shadow of my former self.
+
+Lyria
+Why should I come back to life if I’ll just perish once again? Every time, I feel my purpose fade more and more…
+
+Lyria
+What is my purpose anymore? To senselessly keep raining arrows upon monsters until my spirit finally breaks?
+
+Jonah
+Lyria, please, do not speak like that… You have so much to live for! You are merely 121! That’s about your mid twenties in elf years.
+
+Lyria
+I know, I’m an elf.
+
+Jonah
+Yeah… Think about your loved ones. Think about me. Are you ready to leave behind everything and everyone in your life?
+
+Lyria
+…
+
+Lyria
+I’m not so sure… I feel distressed.
+
+Jonah
+If you’re hurting, we can adjourn your evaluation. Just… please, think it over. I’m not ready to see you go just yet.
+
+Lyria
+…
+
+Lyria
+Very well. Farewell, Jonah.
+
+Jonah
+Goodbye.
+
+[Lyria vanishes]
+
+Jonah
+(I’ll take some fluid samples and study them. There must be some reason behind that reaction.)
+
+[Fade to black and back to scene.]
+
+Jonah
+*Gasp* (Just as I suspected. Her brain has become corrupted as well!)
+
+[Note to self: spare details on this section and save for later.]
+
+Jonah
+(This is extremely troublesome. I can bless the brain and perform a new reassembly operation, but in a delicate state such as this it’s a highly risky operation.)
+
+Jonah
+(I could, instead, transplant a new brain, which would be far safer, but it comes with its own series of problems.)
+
+Jonah
+(Lyria’s soul would return to life, but with a different brain her memories will most likely be gone. Not to mention finding a healthy replacement brain won’t be cheap.)
+
+
+
+Jonah
+*Deep sigh* (Either way, I cannot mention this in my report. It’s unlikely the company’s insurance covers a second operation, much less with a corrupt brain involved!)
+
+Jonah
+(I’ll schedule a meeting with the Overseer tomorrow.) *Groan* (This’ll be a long night.)

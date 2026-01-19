@@ -1,0 +1,252 @@
+[Night to day transition.]
+
+[Parsley Hawthorne, the Overseer, enters the scene.]
+
+Hawthorne
+Good afternoon, Mr. Daggerfell. I hope you’ve slept well, given the circumstances.
+
+Jonah
+Thank you, Mr. Hawthorne. I’m bearing as well as I can.
+
+Hawthorne
+That is good to hear. I read your report regarding the state of Ms. Silvermoon’s body. Very gruesome. This is the 5th death since she joined the company, isn’t it?
+
+Jonah
+That is correct.
+
+Hawthorne
+How tragic. In the name of the company, I must recognize the strength and dedication given my Ms. Lyria Silvermoon. It is unprecedented for an employee to sustain so many deaths and keep standing bold.
+
+Jonah
+(Here we go…)
+
+Hawthorne
+Unfortunately, you’re aware of how these procedures go, aren’t you, Mr. Daggerfell? I’m afraid her body is simply in a deep state of decay. In consequence, I’m afraid my only choice is-
+
+Jonah
+Can you cut to the chase, Sir?! What’s it going to take so you don’t butcher her like a wild hog?!
+
+Hawthorne
+Mr. Daggerfell, please. You assume too much malice out of me and the company. We only want what’s best for everyone, I assure you.
+
+Hawthorne
+Yes, it is evident Ms. Silvermoon’s body has become quite a liability. But! We are willing to make a compromise.
+
+
+
+Hawthorne
+The board of human resources has spoken and we are willing to cover the costs of Lyria Silvermoon’s resurrection- in exchange of her renewing her contract for 10 more years.
+
+Jonah
+*Gasp*
+
+Hawthorne
+Of course, she will not perform the same duties she once did as a special forces unit. Instead, she will likely be relegated to either assembly work or clerical duties.
+
+Jonah
+Hmm… And what if she were to perish again during her performance of duties? What will happen to her body?
+
+Hawthorne
+…
+
+Hawthorne
+Well, as it is natural for any employee in such a state, her body will become the property of-
+
+Jonah
+Never! I said I wouldn’t let you take ownership of her!
+
+Hawthorne
+Mr. Daggerfell, you must understand the company needs profits. We cannot simply give her a second chance for free!
+
+Hawthorne
+…Unless, you’re willing to cover the costs.
+
+Jonah
+…
+
+Jonah
+I will speak to her. You’ll have her answer as soon as possible.
+
+Hawthorne
+Pleasure doing business with you, Mr. Hawthorne.
+
+[...]
+
+[Jonah summons Lyria again.]
+
+Lyria
+Greetings, Jonah.
+
+
+Jonah
+Greetings, my love. I ran my diagnostics and spoke to the Overseer. I implore you that you brace yourself for the news I am about to deliver.
+
+Lyria
+…
+
+Jonah
+You have a corrupt brain. This is a common occurrence for someone who tampers with the undead like you for a series of years. Unfortunately, this was a latent corruption, which is why it didn’t make itself evident in your latest tests.
+
+Jonah
+*Deep breath*
+
+Jonah
+We have two options on how to proceed. Your first option is for me to bless your brain and perform a new reassembly operation. But in a delicate state such as yours this a highly risky operation.
+
+Jonah
+It is possible, despite my best efforts, that the operation has long lasting effects on your body that will carry for the rest of your life.
+
+Lyria
+And the second option?
+
+Jonah
+Your second option is to receive an entire brain transplant. Essentially, your soul will inhabit a new body with another person’s brain. You will inherit their personality and memories, but your conciousness will remain the same.
+
+Jonah
+This is a much safer option, but it comes with its own series of problems.
+
+Jonah
+It won’t be cheap. A brain is a much more hefty part to purchase at the Shell Market. Additionally, most of your original memories will be gone.
+
+Jonah
+You may retain your past experiences as part of a spiritual subconsciousness, but for the most part you will be a new person born in a new body. Am I making myself clear?
+
+Lyria
+…Yes.
+
+Jonah
+I would be remiss not to mention one more thing. The company has decided it won’t cover the costs of your resurrection anymore: unless you’re willing to renew your contract for another 10 years.
+
+Jonah
+This is only an option if you choose to retain your brain. If we were to purchase a new one, that’s coming out of our pockets. Logically, the company won’t hire you anymore because you’ll lose your training and, well…
+
+Jonah
+We have no way of knowing if the new “you” would even want to have anything to do with the company anyways.
+
+Lyria
+…This is a lot to take in. I didn’t expect my body to be in such a state of decay.
+
+Jonah
+Yes. To be clear, this wasn’t a recent event. This is the result of years of contact with nether creatures. But of course… multiple resurrections have a hand as well.
+
+Jonah
+Human resurrection entails making a bargain with the netherworld, which is why even in the best conditions, some degree of impurity will seep in.
+
+Lyria
+I see.
+
+Lyria
+What is your opinion? What do you think I should do?
+
+[Choice:]
+[Brain purification]
+[Brain transplant]
+[I don’t want to bias you]
+
+[Brain purification]
+
+Jonah
+I think the best choice for you is brain purification. Yes, it has its risks, but with my expert hand I can undermine them as much as elvenly possible.
+
+Jonah
+If you put any value on your memories, fighting for them is the most logical choice no matter what.
+
+Lyria
+Didn’t you say the other option was the safest?
+
+Jonah
+Yes, well. I didn’t say it didn’t come with it’s own risks. The side effects of cerebral soul bond are an understudied area of science, both physically and psychologically.
+
+Jonah
+Adopting a new personality may have entirely unpredictable effects on your psyche. You may be fine, or you may take on heavy amounts of stress or delirium.
+
+Jonah
+Not to mention the financial burden the operation would have for both of us. I could be indebted for the company for years, but you’ll certainly be out of a job.
+
+Lyria
+That is true.
+
+Jonah
+And most importantly: we’ll still have each other. Don’t you think it’s valuable to fight for our sakes, even when there’s a risk?
+
+Lyria
+Well, yes, of course. If there wasn’t any other factor, I’d choose you any time.
+
+Jonah
+Precisely! And I would choose you anytime as well! Trust me, Lyria, this is for your own good. I will focus the entirety of my being so not a spec of your beautiful flesh is out of place.
+
+Lyria
+…
+
+Lyria
+Very well, Jonah. I… I trust you.
+
+Jonah
+Brilliant. I’ll start with the preparations soon.
+
+[I don’t want to bias you]
+
+Jonah
+This is a great choice and I don’t want to influence you one way or another. No matter what you choose, it will entirely change your life and I shouldn’t have a say on the matter.
+
+Lyria
+But if I lose my memories, we won’t be together anymore, will we? I am guaranteed, for the most part, to forget all about you, our experiences…
+
+Jonah
+Yes, that is true. However, if that’s what you wish for yourself, I won’t protest against your choice.
+
+Jonah
+You have the right for a second chance. A safe second chance. My own wishes shouldn’t matter in the equation.
+
+Lyria
+But do you want me to forget you? If it were up to you, would you let me become a blank slate and start a new life?
+
+[Choice:]
+[Yes]
+[No]
+
+[Yes]
+
+Jonah
+Yes, of course I would! Because I love you! If I have to choose between your love and your safety, I will always choose your safety!
+
+Lyria
+…
+
+[Note to self: change “crutch” later]
+
+Lyria
+I don’t know what to think. For always, I’ve considered myself to be your crutch. I know you’ve had a difficult life and you’ve bared your pain on your own.
+
+Lyria
+I don’t want a second chance if it means you’ll be left all alone.
+
+Jonah
+…
+
+Jonah
+I may have… overelied on you at some point. It’s true I’ve always appreciated being able to rely on you, but I never wanted you to feel like I couldn’t live without you.
+
+Jonah
+You were… are my rain of sunshine, the light that guides me in the darkness when everything else fails me.
+
+Jonah
+I don’t want to lose you, but I love you too much to lead you to harm.
+
+Lyria
+*Gasp* Jonah…
+
+Lyria
+…
+
+Lyria
+I’ll think about it. For how longer will my spirit remain stable?
+
+Jonah
+It is extremely variable. Based on external factors such as ether currents and spirit currents you could remain stable a hundred years or a week.
+
+Jonah
+For your own good, I recommend you make a decision as soon as possible.
+
+Lyria
+Very well.
