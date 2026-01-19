@@ -143,6 +143,7 @@ style namebox:
     xanchor gui.name_xalign
     xsize gui.namebox_width
     ypos gui.name_ypos
+    yanchor 1.0
     ysize gui.namebox_height
 
     background Frame("gui/Dialogue/namebox.png", gui.namebox_borders, tile=gui.namebox_tile, xalign=gui.name_xalign)
