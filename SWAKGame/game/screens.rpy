@@ -134,8 +134,9 @@ style window:
     xfill True
     yalign gui.textbox_yalign
     ysize gui.textbox_height
+    xsize gui.textbox_width
 
-    background Image("gui/textbox.png", xalign=0.5, yalign=1.0)
+    background Image("gui/Dialogue/textbox.png", xalign=0.5, yalign=1.0)
 
 style namebox:
     xpos gui.name_xpos
@@ -144,7 +145,7 @@ style namebox:
     ypos gui.name_ypos
     ysize gui.namebox_height
 
-    background Frame("gui/namebox.png", gui.namebox_borders, tile=gui.namebox_tile, xalign=gui.name_xalign)
+    background Frame("gui/Dialogue/namebox.png", gui.namebox_borders, tile=gui.namebox_tile, xalign=gui.name_xalign)
     padding gui.namebox_borders.padding
 
 style say_label:
@@ -156,6 +157,8 @@ style say_dialogue:
     properties gui.text_properties("dialogue")
 
     xpos gui.dialogue_xpos
+    xanchor 0.5
+    textalign 0.5
     xsize gui.dialogue_width
     ypos gui.dialogue_ypos
 
@@ -245,6 +248,7 @@ screen quick_menu():
         hbox:
             style_prefix "quick"
             style "quick_menu"
+            spacing 32
 
             textbutton _("Back") action Rollback()
             textbutton _("History") action ShowMenu('history')
@@ -269,7 +273,8 @@ style quick_button_text is button_text
 
 style quick_menu:
     xalign 0.5
-    yalign 1.0
+    xanchor 0.5
+    yalign 0.97
 
 style quick_button:
     properties gui.button_properties("quick_button")
