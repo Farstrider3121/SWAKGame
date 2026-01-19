@@ -300,7 +300,8 @@ screen navigation():
             xalign 0.5
             yalign 0.85
             image "gui/Dialogue/namebox.png":
-                xalign 0.5
+                xanchor 0.5
+                xpos 0.5
 
             hbox:
                 style_prefix "hnavigation"
