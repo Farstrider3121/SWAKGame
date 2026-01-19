@@ -151,6 +151,7 @@ style namebox:
 
 style say_label:
     properties gui.text_properties("name", accent=True)
+    bold True
     xalign gui.name_xalign
     yalign 0.5
 
