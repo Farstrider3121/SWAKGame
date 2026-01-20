@@ -121,4 +121,4 @@ label scene_1_start:
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I'll schedule a meeting with the Overseer tomorrow."
     # Distressed Jonah
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}This'll be a long night...{/font}"
-    return
+    jump scene_2_start
