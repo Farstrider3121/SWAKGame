@@ -299,10 +299,7 @@ screen navigation():
     if renpy.get_screen("main_menu"):
         vbox:
             xalign 0.5
-            yalign 0.85
-            image "gui/Dialogue/namebox.png":
-                xanchor 0.5
-                xpos 0.5
+            yalign 0.95
 
             hbox:
                 style_prefix "hnavigation"
@@ -430,7 +427,7 @@ screen main_menu():
         vbox:
             style "main_menu_vbox"
 
-            text "LOGO GOES HERE":
+            image "gui/window_icon.png":
                 xalign 0.5
 
             text "[config.name!t]":
