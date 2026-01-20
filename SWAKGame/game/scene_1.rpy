@@ -110,3 +110,15 @@ label scene_1_start:
     jonah "Goodbye."
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I'll take some fluid samples and study them. There must be some reason behind that reaction.{/font}"
     # TODO: Fade to black, then back in again
+    jonah "Just as I suspected! Her brain has become corrupted as well!"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Note to self: Spare details on this section and save for later.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}This is extremely troublesome.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I can bless the brain and perform a new reassembly operation, but in a delicate state such as this, it's a highly risky operation.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I could, instead, transplant a new brain. It would be much safer, but it comes with its own series of problems.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Lyria's soul would return to life, but with a different brain her memories will most likely be gone.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Not to mention finding a healthy replacement won't be cheap.{/font}"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Either way, I cannot mention this in my report. It's unlikely the company insurance covers a second operation, much less with a corrupt brain involved!"
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I'll schedule a meeting with the Overseer tomorrow."
+    # Distressed Jonah
+    jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}This'll be a long night...{/font}"
+    return
