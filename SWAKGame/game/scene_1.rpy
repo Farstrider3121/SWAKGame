@@ -1,5 +1,6 @@
 label scene_1_start:
-    # Show jonah
+    show jonah at left:
+        zoom 0.25
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Deep breaths, Jonah. You’ve done this several times before, it’s going to be well.{/font}"
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Just… follow the protocol. Review the manual if you need it, it’s perfectly acceptable.{/font}"
     "TOME OF RESURRECTION"
@@ -49,7 +50,7 @@ label scene_1_start:
     jonah "Once again: Don't worry! You're in good hands. I'll revive you in sun or rain, even if I have to rip you out of the hands of Myrra herself."
     lyria "Thank you."
     lyria "Good luck, Jonah."
-    hide lyria
+    hide lyria with dissolve
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Note: Spirit is anchored. Ressurection consent: approved{/font}"
     jonah "I'll uncover the body."
     "he uncovered the body."

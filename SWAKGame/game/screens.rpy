@@ -778,6 +778,7 @@ style slot_button:
 
 style slot_button_text:
     properties gui.text_properties("slot_button")
+    ypos 0.95
 
 
 ## Preferences screen ##########################################################
