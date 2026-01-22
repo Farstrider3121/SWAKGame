@@ -476,7 +476,7 @@ screen game_menu(title, scroll=None, yinitial=0.0, spacing=0):
 
     style_prefix "game_menu"
 
-    if main_menu:
+    if renpy.get_screen("main_menu"):
         add gui.main_menu_background
     else:
         add gui.game_menu_background
@@ -559,8 +559,6 @@ style return_button_text is navigation_button_text
 style game_menu_outer_frame:
     bottom_padding 45
     top_padding 180
-
-    background "gui/overlay/game_menu.png"
 
 style game_menu_navigation_frame:
     xsize 420
@@ -778,7 +776,7 @@ style slot_button:
 
 style slot_button_text:
     properties gui.text_properties("slot_button")
-    ypos 0.95
+    ypos 1.0
 
 
 ## Preferences screen ##########################################################
@@ -908,6 +906,7 @@ style pref_label:
 
 style pref_label_text:
     yalign 1.0
+    bold True
 
 style pref_vbox:
     xsize 338

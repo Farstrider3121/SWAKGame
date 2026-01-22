@@ -25,17 +25,17 @@ define config.check_conflicting_properties = True
 ## The colors of text in the interface.
 
 ## An accent color used throughout the interface to label and highlight text.
-define gui.accent_color = '#9933ff'
+define gui.accent_color = '#F7F0E6'
 
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = '#888888'
+define gui.idle_color = '#B4ADA5'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
-define gui.idle_small_color = '#aaaaaa'
+define gui.idle_small_color = '#B4ADA5'
 
 ## The color that is used for buttons and bars that are hovered.
-define gui.hover_color = '#c184ff'
+define gui.hover_color = '#F7F0E6'
 
 ## The color used for a text button when it is selected but not focused. A
 ## button is selected if it is the current screen or preference value.
@@ -51,7 +51,7 @@ define gui.hover_muted_color = '#5b1e99'
 
 ## The colors used for dialogue and menu choice text.
 define gui.text_color = '#000000'
-define gui.interface_text_color = '#ffffff'
+define gui.interface_text_color = '#F7F0E6'
 
 
 ## Fonts and Font Sizes ########################################################
@@ -88,7 +88,7 @@ define gui.title_text_size = 75
 
 ## The images used for the main and game menus.
 define gui.main_menu_background = "gui/main_menu.png"
-define gui.game_menu_background = "gui/game_menu.png"
+define gui.game_menu_background = "gui/menu.png"
 
 
 ## Dialogue ####################################################################
@@ -167,7 +167,7 @@ define gui.button_text_size = gui.interface_text_size
 ## The color of button text in various states.
 define gui.button_text_idle_color = gui.idle_color
 define gui.button_text_hover_color = gui.hover_color
-define gui.button_text_selected_color = gui.selected_color
+define gui.button_text_selected_color = "#F7F0E6"
 define gui.button_text_insensitive_color = gui.insensitive_color
 
 ## The horizontal alignment of the button text. (0.0 is left, 0.5 is center, 1.0
@@ -230,8 +230,8 @@ define gui.slot_button_borders = Borders(15, 15, 15, 15)
 define gui.slot_button_text_size = 21
 define gui.slot_button_text_xalign = 0.5
 define gui.slot_button_text_idle_color = gui.idle_small_color
-define gui.slot_button_text_selected_idle_color = gui.selected_color
-define gui.slot_button_text_selected_hover_color = gui.hover_color
+define gui.slot_button_text_selected_idle_color = gui.idle_small_color
+define gui.slot_button_text_selected_hover_color = gui.idle_small_color
 
 ## The width and height of thumbnails used by the save slots.
 define config.thumbnail_width = 384
