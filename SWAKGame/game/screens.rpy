@@ -1219,14 +1219,13 @@ screen confirm(message, yes_action, no_action):
 
     style_prefix "confirm"
 
-    add "gui/overlay/confirm.png"
+    add "gui/Pop up/overlay.png"
 
     frame:
 
         vbox:
             xalign .5
-            yalign .5
-            spacing 45
+            yanchor 0
 
             label _(message):
                 style "confirm_prompt"
@@ -1234,14 +1233,23 @@ screen confirm(message, yes_action, no_action):
 
             hbox:
                 xalign 0.5
-                spacing 150
+                ypos 307
+                spacing 100
 
-                textbutton _("Yes") action yes_action
-                textbutton _("No") action no_action
-
+                textbutton _("Yes"):
+                    xsize 140
+                    ysize 64
+                    background "gui/Pop up/confirm_idle_button.png"
+                    hover_background "gui/Pop up/confirm_hover_button.png"
+                    action yes_action
+                textbutton _("No"):
+                    xsize 140
+                    ysize 64
+                    background "gui/Pop up/confirm_idle_button.png"
+                    hover_background "gui/Pop up/confirm_hover_button.png"
+                    action no_action
     ## Right-click and escape answer "no".
     key "game_menu" action no_action
-
 
 style confirm_frame is gui_frame
 style confirm_prompt is gui_prompt
@@ -1250,14 +1258,18 @@ style confirm_button is gui_medium_button
 style confirm_button_text is gui_medium_button_text
 
 style confirm_frame:
-    background Frame([ "gui/confirm_frame.png", "gui/frame.png"], gui.confirm_frame_borders, tile=gui.frame_tile)
+    background Frame([ "gui/confirm_frame.png", "gui/Pop up/frame.png"], gui.confirm_frame_borders, tile=gui.frame_tile)
     padding gui.confirm_frame_borders.padding
+    xsize 860
+    ysize 548
     xalign .5
     yalign .5
 
 style confirm_prompt_text:
     textalign 0.5
+    ypos 138
     layout "subtitle"
+    color "#1F1205"
 
 style confirm_button:
     properties gui.button_properties("confirm_button")

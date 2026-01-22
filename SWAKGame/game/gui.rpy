@@ -50,7 +50,7 @@ define gui.muted_color = '#3d1466'
 define gui.hover_muted_color = '#5b1e99'
 
 ## The colors used for dialogue and menu choice text.
-define gui.text_color = '#000000'
+define gui.text_color = '#1F1205'
 define gui.interface_text_color = '#F7F0E6'
 
 
@@ -215,6 +215,9 @@ define gui.choice_button_text_xalign = 0.5
 define gui.choice_button_text_idle_color = '#888888'
 define gui.choice_button_text_hover_color = "#ffffff"
 define gui.choice_button_text_insensitive_color = '#8888887f'
+
+define gui.confirm_button_text_hover_color = '#F7F0E6'
+define gui.confirm_button_text_idle_color = '#1F1205'
 
 
 ## File Slot Buttons ###########################################################
