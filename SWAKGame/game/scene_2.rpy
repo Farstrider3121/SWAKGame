@@ -1,7 +1,11 @@
 label scene_2_start:
+    python:
+        renpy.music.play("audio/music/act_2.ogg")
+        renpy.music.queue("audio/music/act_2_loop.ogg", loop=True)
     # TODO: ADD OPERATING ROOM DAY TIME
     # TODO: show hawthorne at right
-    show jonah at left
+    show jonah at left:
+        zoom 0.25
     hawthorne "Good afternoon, Mr. Daggerfell. I hope you've slept well, given the circumstances."
     jonah "Thank you, Mr. Hawthorne. I'm bearing as well as I can."
     hawthorne "That is good to hear. I read your report regarding the state of Ms. Silvermoon's body. Very gruesome."
@@ -26,7 +30,8 @@ label scene_2_start:
     jonah "I will speak to her. You'll have her answer as soon as possible."
     hawthorne "Pleasure doing business with you, Mr. Daggerfell."
     # hide hawthorne with dissolve
-    show lyria at right with dissolve
+    show lyria at right with dissolve:
+        zoom 0.25
     lyria "Greetings, Jonah."
     jonah "Greetings, my love. I ran diagnostics and spoke to the Overseer. I implore that you brace yourself for the news I am about to deliver."
     lyria "..."

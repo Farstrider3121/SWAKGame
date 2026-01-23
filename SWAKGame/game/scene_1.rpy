@@ -84,7 +84,8 @@ label scene_1_start:
     jonah "Are there any spirits in this room?"
     # rune light effect
     jonah "Lyria Silvermoon, please show yourself!"
-    show lyria with dissolve
+    show lyria at right with dissolve:
+        zoom 0.25
     lyria "What happened? That felt awful!"
     jonah "Don't worry, you just had an incompatible reaction. It happens when the body and the mind aren't adequately in tune."
     jonah "I'm not sure why it happened..."
