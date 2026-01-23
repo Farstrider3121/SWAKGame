@@ -5,12 +5,11 @@
 
 define jonah = Character("Jonah")
 define lyria = Character("Lyria")
+define hawthorne = Character("Hawthorne")
 
 # The game starts here.
 
 label start:
-    stop music fadeout 2.0
-    # TODO: ADD MUSIC
     # TODO: ADD CITY BACKGROUND
     "The year was 1848. Just a few years after the dawn of the Magitek Revolution."
     "Long gone were the days of manual, pedestrian dungeoneering."

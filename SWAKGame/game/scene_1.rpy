@@ -1,6 +1,7 @@
 label scene_1_start:
     show jonah at left:
         zoom 0.25
+    # TODO: ADD OPERATING ROOM BACKGROUND NIGHTTIME
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Deep breaths, Jonah. You’ve done this several times before, it’s going to be well.{/font}"
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Just… follow the protocol. Review the manual if you need it, it’s perfectly acceptable.{/font}"
     "TOME OF RESURRECTION"
@@ -53,7 +54,7 @@ label scene_1_start:
     hide lyria with dissolve
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Note: Spirit is anchored. Ressurection consent: approved{/font}"
     jonah "I'll uncover the body."
-    "he uncovered the body."
+    # TODO: Change background to operating room without sheet
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}Just as the report described. Focus Jonah, her life depends on it.{/font}"
     "Step 2. Body reassembly"
     "Stitch together any dismembered body parts. Connect electric diodes to the head's temples. Once finished, flip the power switch on to reanimate the body."
@@ -122,4 +123,5 @@ label scene_1_start:
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}I'll schedule a meeting with the Overseer tomorrow."
     # Distressed Jonah
     jonah "{font=fonts/Baskervville-Italic-VariableFont_wght.ttf}This'll be a long night...{/font}"
+    hide jonah
     jump scene_2_start
