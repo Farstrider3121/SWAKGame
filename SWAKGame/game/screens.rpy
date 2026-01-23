@@ -630,7 +630,7 @@ screen about():
             hbox:
                 spacing 50
                 xalign 0.5
-                use credit("@atsuink4 on Twitter", "Sprite art", None)
+                use credit("{a=https://x.com/atsuink4}@atsuink4 on Twitter{/a}", "Sprite art", None)
                 use credit ("Azumar", "Music and Sound", None)
                 use credit ("Panda_Bear", "UI Art", None)
                 use credit ("DoubleH", "Writing", None)
