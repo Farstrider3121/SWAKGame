@@ -600,6 +600,16 @@ style return_button:
 ## There's nothing special about this screen, and hence it also serves as an
 ## example of how to make a custom screen.
 
+screen credit(user, credit, pic):
+    vbox:
+        if pic:
+            image pic:
+                xalign 0.5
+        text user:
+            xalign 0.5
+        text credit:
+            xalign 0.5
+
 screen about():
 
     tag menu
@@ -616,10 +626,19 @@ screen about():
             label "[config.name!t]"
             text _("Version [config.version!t]\n")
 
-            ## gui.about is usually set in options.rpy.
-            if gui.about:
-                text "[gui.about!t]\n"
-
+            label "OUR TEAM:"
+            hbox:
+                spacing 50
+                xalign 0.5
+                use credit("@atsuink4 on Twitter", "Sprite art", None)
+                use credit ("Azumar", "Music and Sound", None)
+                use credit ("Panda_Bear", "UI Art", None)
+                use credit ("DoubleH", "Writing", None)
+                use credit("{a=https://github.com/Farstrider3121}Farstrider3121{/a}", "Programming", None)
+            text """\n
+                This game was made for the {a=https://itch.io/jam/swakjam-2026}Sealed with a Kiss Game Jam{/a}.
+            """
+            
             text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]")
 
 
