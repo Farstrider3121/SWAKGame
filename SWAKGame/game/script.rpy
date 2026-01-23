@@ -10,6 +10,8 @@ define hawthorne = Character("Hawthorne")
 # The game starts here.
 
 label start:
+    python:
+        renpy.music.queue("audio/music/menu_loop.ogg", loop=True)
     # TODO: ADD CITY BACKGROUND
     "The year was 1848. Just a few years after the dawn of the Magitek Revolution."
     "Long gone were the days of manual, pedestrian dungeoneering."
