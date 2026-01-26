@@ -632,7 +632,7 @@ screen about():
                 xalign 0.5
                 use credit("{a=https://x.com/atsuink4}@atsuink4 on Twitter{/a}", "Sprite art", None)
                 use credit ("Azumar", "Music and Sound", None)
-                use credit ("Panda_Bear", "UI Art", None)
+                use credit ("{a=https://pawnda.itch.io/}Panda_Bear{/a}", "UI Art", None)
                 use credit ("DoubleH", "Writing", None)
                 use credit("{a=https://github.com/Farstrider3121}Farstrider3121{/a}", "Programming", None)
             text """\n
