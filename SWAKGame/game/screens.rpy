@@ -633,7 +633,7 @@ screen about():
                 use credit("{a=https://x.com/atsuink4}@atsuink4 on Twitter{/a}", "Sprite art", None)
                 use credit ("{a=https://brandonmicdavis.com/}Brandon Davis{/a}", "Music and Sound", None)
                 use credit ("{a=https://pawnda.itch.io/}Panda_Bear{/a}", "UI Art", None)
-                use credit ("DoubleH", "Writing", None)
+                use credit ("{a=https://www.tumblr.com/a-doubleh-x}DoubleH{/a}", "Writing", None)
                 use credit("{a=https://github.com/Farstrider3121}Farstrider3121{/a}", "Programming", None)
             text """\n
                 This game was made for the {a=https://itch.io/jam/swakjam-2026}Sealed with a Kiss Game Jam{/a}.
