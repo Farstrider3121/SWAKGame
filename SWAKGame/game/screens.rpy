@@ -631,7 +631,7 @@ screen about():
                 spacing 50
                 xalign 0.5
                 use credit("{a=https://x.com/atsuink4}@atsuink4 on Twitter{/a}", "Sprite art", None)
-                use credit ("Azumar", "Music and Sound", None)
+                use credit ("{a=https://brandonmicdavis.com/}Brandon Davis{/a}", "Music and Sound", None)
                 use credit ("{a=https://pawnda.itch.io/}Panda_Bear{/a}", "UI Art", None)
                 use credit ("DoubleH", "Writing", None)
                 use credit("{a=https://github.com/Farstrider3121}Farstrider3121{/a}", "Programming", None)
