@@ -849,7 +849,7 @@ screen preferences():
 
                 vbox:
 
-                    label _("Text Speed")
+                    label _("TEXT SPEED")
 
                     bar value Preference("text speed")
 
@@ -860,14 +860,14 @@ screen preferences():
                 vbox:
 
                     if config.has_music:
-                        label _("Music Volume")
+                        label _("MUSIC VOLUME")
 
                         hbox:
                             bar value Preference("music volume")
 
                     if config.has_sound:
 
-                        label _("Sound Volume")
+                        label _("SOUND VOLUME")
 
                         hbox:
                             bar value Preference("sound volume")
@@ -935,7 +935,7 @@ style radio_vbox:
 
 style radio_button:
     properties gui.button_properties("radio_button")
-    foreground "gui/button/radio_[prefix_]foreground.png"
+    foreground "gui/Prefs/radio_[prefix_]foreground.png"
 
 style radio_button_text:
     properties gui.text_properties("radio_button")
@@ -945,7 +945,7 @@ style check_vbox:
 
 style check_button:
     properties gui.button_properties("check_button")
-    foreground "gui/button/check_[prefix_]foreground.png"
+    foreground "gui/Prefs/check_[prefix_]foreground.png"
 
 style check_button_text:
     properties gui.text_properties("check_button")

@@ -46,7 +46,7 @@ label scene_2_start:
     jonah "You may retain your past experiences as part of a spiritual subconsciousness, but for the most part you will be a new person born in a new body. Am I making myself clear?"
     lyria "..."
     lyria "...Yes."
-    jonah "I would be remiss not to mention one more thing. THe company has decided it won't cover the costs of your resurrection anymore: unless you're wukkubg ti renew your contract for another ten years."
+    jonah "I would be remiss not to mention one more thing. The company has decided it won't cover the costs of your resurrection anymore: unless you're willing to renew your contract for another ten years."
     jonah "This is only an option if you choose to retain your brain. If we were to purchase a new one, that's coming out of our pockets."
     jonah "Logically, the company won't hire you anymore because you'll lose your training and, well..."
     jonah "We have no way of knowing if the new \"you\" would even want to have anything to do with the company anyways."
